@@ -1,2 +1,2 @@
 # intro-to-cpp-solu
-solution of introduction of programing with cpp for Y.daniel Liang 
+solution of introduction to programing with cpp for Y.daniel Liang
